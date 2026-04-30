@@ -1,0 +1,8 @@
+# Ignore raw data files
+*.csv
+*.xlsx
+*.json
+
+# Ignore system files
+.DS_Store
+__pycache__/
